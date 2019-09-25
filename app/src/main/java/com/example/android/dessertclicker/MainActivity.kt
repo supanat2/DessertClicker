@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     /** Dessert Data **/
+    private lateinit var dessertTimer : DessertTimer;
 
     /**
      * Simple data class that represents a dessert. Includes the resource id integer associated with
@@ -65,7 +66,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
+        dessertTimer = DessertTimer()
         Timber.i("onCreate called")
 
         // Use Data Binding to get reference to the views
@@ -153,7 +154,7 @@ class MainActivity : AppCompatActivity() {
     /** Lifecycle Methods **/
     override fun onStart() {
         super.onStart()
-
+        dessertTimer.startTimer()
         Timber.i("onStart called")
     }
 
@@ -169,6 +170,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStop() {
         super.onStop()
+        dessertTimer.stopTimer()
         Timber.i("onStop Called")
     }
 

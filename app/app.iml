@@ -17,7 +17,7 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://$MODULE_DIR$/build/generated/res/resValues/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
@@ -27,7 +27,7 @@
         <compilerSettings />
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
-          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1fa48271ff1670c7d08f19c9fc9df3b4/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/68d5cb060d67ea06907e77ffe4667fbc/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/3.4.2/b7c75633f0e744572f7e4264487a35eaf9de11ad/databinding-common-3.4.2.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/eb59dcb2e9d262412f03b3638deabb54/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/fb30272d22d27900e109b5e0801bbf5b/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/2d738634a9dc305c48a7ca0df1fb34ac/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/0018074eaa1268c3734a92f81e2d7149/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/3f0f657a83c5a8c640d90c14ebb5e78d/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/8a73ebc815a4cd391be423e8ffe55e24/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/28ba8cd84861b3414368f60f2b94d91a/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/3189bcea7fea7c93cf9abcae1fd8380a/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/65ed103181f8b0d442dd1cfb27966cdf/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/f79600ca3b0d367ac76624bc210b68f2/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/cbde4ecfb1e668de37e16ed98062c8ed/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/792114c093796b4da33bd0786825f6dc/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/db7b62140a4c3d5a690f6caf3755e750/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/aac6f1f53225a44641f5475601f8f3c7/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/49282facece499ec85fc5c4e0da0df62/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/a7360720a8ce99bbddbff14d7039bfe5/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/7a09555e51976c50c580218fa381a87d/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/297d1cfe98b5bb053da766f1e86943d8/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/d15d4e75cdbfc91f246e09d760d80ab3/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/6a4ce0e2ddefedd1fd4cc35a5d7228ee/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/694cfc7cd4524392c5ba6fb841c4a4e6/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/0d0bd3eae2208ec7848debda2960a7cc/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/c460002f5609134b2a9817895ad242e6/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/d4457b3a9195b7d053d04a035ee8a623/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/9a1221e4b15279795fa28497b3b75b2f/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/05883cbb3e9b0a82bf030eab87a0b667/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/1e355f0eed85defdf245be4c7690e6bd/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/7d4b49ae83c7292119cf4bce2edef3da/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.0/683e04a4e7f17437d7e1390480f312e122e42e9e/kotlin-stdlib-jdk7-1.3.0.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0/a134b0cfe9bb44f98b0b3e889cda07923eea9428/kotlin-stdlib-1.3.0.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0/84a2e0288dc17cd64d692eb1e5e0de8cd5ff0846/kotlin-stdlib-common-1.3.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/21dc1ef160ed9b970e617fe56b1863a5/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/16.0.1/c1a6655cebcac68e63e4c24d23f573035032eb2a/annotations-16.0.1.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.0-alpha2/3531f0f78e59180b9b9017c98e73262d2eac1a68/constraintlayout-solver-2.0.0-alpha2.jar;C:/Users/Pluem/AppData/Local/Android/Sdk/platforms/android-28/android.jar" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c567ad4fc6ed5c771f5c8beef5a20bab/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/e0f1fd1f91a98eac9d961b6722eeff7c/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/3.4.2/b7c75633f0e744572f7e4264487a35eaf9de11ad/databinding-common-3.4.2.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/13ad4e45c478092639da1eb1eac59d31/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/2debd68bf652b94ca541e9308131bffa/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/610ab354a7997b6409535df1b11537c6/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/4fd78e484804aacd1c81786e2827da49/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/0d7309c83d6b686d69cf257b86ec4f22/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/3181a50f7149a1f99c59955270f04b3e/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/a54e3f80d962ab042f7a06ce51e244a2/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/c5af120ac34336c387fe8d4128d4b4fd/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/808e853170b4256db0c0f97640dd31cd/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/a1886ee542db04f4d9a32e73fc330609/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/abd0a87217f5df0bd11163f8c7c9dcc3/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/9ab031b10e4a16423fe1612e3e4eaa52/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/000c49df5073b7f0635677ad4daf2501/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/df84d76761a571208164aa7e22403bdb/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/fba0aff870f65539255f5f9b78f930b3/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/82d0d12e7aaeb2081d50fdb566fe11d7/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/3e606b42c3279f15174c435fbb610c52/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/db93c82fcef99fbf3c8d7905b834bb78/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/ba09deaccd21948ecb9efb9e6273c6f4/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/1e0df40fdd9e28fb0beba58baf4747b2/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/860fa5210fa1193c9a81fc5a7b93a416/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/0ba6bcb30ab55f8ea9bfd2b62d6e2dc2/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/45fa11e5dfe5f951aa852831979643da/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/2b82e90e10c8d2922f6b154a9255f1e3/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/49fbbe903b446e4eadbab8dcbd103df4/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/cb5733bd34a2c50ab08f47fdc6178697/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/1fef972f2466876460b7374b8212faec/jars/classes.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/4a3f17e416376d2dec2a503158f44620/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.11/4839661cf6ce3c14b65ed7dcf5b9249b44ecca16/kotlin-stdlib-jdk7-1.3.11.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/4cbc5922a54376018307a731162ccaf3ef851a39/kotlin-stdlib-1.3.11.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/d8b8e746e279f1c4f5e08bc14a96b82e6bb1de02/kotlin-stdlib-common-1.3.11.jar;C:/Users/Pluem/.gradle/caches/transforms-2/files-2.1/adb9f3b790bd2f658dd714b1b832e354/jars/classes.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/16.0.1/c1a6655cebcac68e63e4c24d23f573035032eb2a/annotations-16.0.1.jar;C:/Users/Pluem/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.0-alpha2/3531f0f78e59180b9b9017c98e73262d2eac1a68/constraintlayout-solver-2.0.0-alpha2.jar;C:/Users/Pluem/AppData/Local/Android/Sdk/platforms/android-28/android.jar" />
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
           <option name="moduleName" value="app_debug" />
@@ -107,6 +107,42 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://$MODULE_DIR$/build/generated/source/r" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/apk_list" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/bundle_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/compatible_screen_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data-binding" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_base_class_log_artifact" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_base_class_logs_dependency_artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_dependency_artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_layout_info_type_merge" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/duplicate_classes_check" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/external_libs_dex" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/feature_data_binding_base_feature_info" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant_app_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant_run_merged_manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javac" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/lint_jar" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_assets" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_jni_libs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_shaders" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/metadata_feature_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/prebuild" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/processed_res" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shader_assets" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/signing_config" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/validate_signing_config" />
+      <excludeFolder url="file://$MODULE_DIR$/build/kotlin" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
@@ -122,12 +158,13 @@
     <orderEntry type="library" name="Gradle: androidx.databinding:databinding-adapters:3.4.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.databinding:databinding-runtime:3.4.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.0-alpha2@jar" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.0.0-alpha2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.11@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.11@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.11@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.core:core:1.0.0@aar" level="project" />
@@ -151,7 +188,6 @@
     <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0@jar" level="project" />
   </component>
 </module>
